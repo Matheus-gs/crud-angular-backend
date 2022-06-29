@@ -1,0 +1,11 @@
+{
+  "users": [
+    {
+      "name": "John Doe",
+      "bornDate": "2001-12-13",
+      "email": "Jdoe@gmail.com",
+      "role": "Frontend Developer",
+      "id": 1
+    }
+  ]
+}
